@@ -1,0 +1,3 @@
+[submodule "dialog"]
+	path = dialog
+	url = git@github.com:titan00001/react-plugin-dialog.git
